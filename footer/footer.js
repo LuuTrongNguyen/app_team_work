@@ -1,0 +1,1 @@
+console.log('tinh nang footer nguyen');
